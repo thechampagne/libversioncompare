@@ -1,5 +1,5 @@
 #ifndef __VERSION_COMPARE_H__
-#DEFINE __VERSION_COMPARE_H__
+#define __VERSION_COMPARE_H__
 
 #include <stddef.h>
 
